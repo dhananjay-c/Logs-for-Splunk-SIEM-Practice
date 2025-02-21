@@ -1,7 +1,3 @@
-Here is a **README** template that you can use for your public Git repository, explaining the purpose of the logs, how to use them, and how to generate more if necessary.
-
----
-
 # Log Generation for Splunk SIEM Practice
 
 This repository contains **synthetic log files** designed for practicing with **Splunk SIEM** (Security Information and Event Management) and performing various **log analysis tasks**. These logs are generated with realistic formats, representing common log categories like **authentication logs**, **web server logs**, **firewall logs**, and **system logs**. They are intended for learning and experimenting with Splunk's query language and features.
